@@ -44,6 +44,7 @@ Python v3.9.17 and higher
 
 
 3. When both players draw the same card twice then there is no winner but in next round player 2 wins the round and gets all the 6 cards.
+
 ![](images/two_tie_scenario.png)
 
 
